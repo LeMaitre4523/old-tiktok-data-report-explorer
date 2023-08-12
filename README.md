@@ -1,5 +1,7 @@
 
-# TikTok Data Report Explorer - TDRE
+# TikTok Data Report Explorer - TDRE (old)
+
+# New version in development : [New version](https://github.com/tiktok-data-report-explorer)
 
 Une manière plus simple d'explorer vos données TikTok !
 Glissez-déposez votre fichier et laissez TDRE s'en occuper.
